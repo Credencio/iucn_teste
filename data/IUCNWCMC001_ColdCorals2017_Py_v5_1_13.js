@@ -1,0 +1,1 @@
+var json_IUCNWCMC001_ColdCorals2017_Py_v5_1_13 = {"type":"FeatureCollection","name":"IUCNWCMC001_ColdCorals2017_Py_v5_1_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

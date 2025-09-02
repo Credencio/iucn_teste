@@ -1,0 +1,1 @@
+var json_IUCNwhosonfirst_data_admin_mz_locality_polygon_2 = {"type":"FeatureCollection","name":"IUCNwhosonfirst_data_admin_mz_locality_polygon_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
