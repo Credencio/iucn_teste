@@ -1,0 +1,1 @@
+var json_IUCNCorredor_de_Desenvolvimento_Beira_112 = {"type":"FeatureCollection","name":"IUCNCorredor_de_Desenvolvimento_Beira_112","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
