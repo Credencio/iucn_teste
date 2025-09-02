@@ -1,0 +1,1 @@
+var json_IUCNAreas_de_conservacao_IUCN_64 = {"type":"FeatureCollection","name":"IUCNAreas_de_conservacao_IUCN_64","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
